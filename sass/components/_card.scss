@@ -1,0 +1,60 @@
+.card__grid {
+    display: flex;
+    flex-direction: column;
+}
+
+article{
+    max-width:450px;
+}
+
+.card {
+    background: #ffffff;
+    color: #000000;
+    border-radius: 0.5rem;
+    box-shadow: 2px 5px 8px $shadowgrey;
+    max-width: 22rem;
+    height: 16rem;
+    margin:auto;
+    margin-bottom: 1.5rem;
+    //padding: 1.5rem;
+
+    &__image img {
+        border-radius: 0.5rem 0.5rem 0 0;
+        width: 22rem;
+        height: 10.5rem;
+        background-repeat: no-repeat;
+        object-fit: cover;
+    }
+
+    &__content {
+        display: grid;
+        grid-template-columns: auto 30px;
+        align-items: center;
+        padding-right: 1.5rem;
+    }
+
+    &__content h3 {
+        line-height: 0.8rem;
+    }
+
+    &__title {
+        margin-left: 1rem;
+        line-height: 1;
+    }
+
+    &__love .btn {
+        color: $primary;
+        line-height: 2.5rem;
+        font-weight:500;
+        cursor: pointer;
+
+        &:hover {
+           color: $secondary;
+            
+        }
+        &:active {
+           color: $secondary;
+        } 
+
+    }
+}

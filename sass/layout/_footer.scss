@@ -1,0 +1,26 @@
+footer {
+  padding: 1em;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: $darkgrey;
+  color: white;
+  text-align: left;  
+  font-size: 0.7rem;
+}
+
+footer .fas {
+  color: white;
+  margin: 0 1em;
+}
+
+.footer-logo {
+  margin: 1em;
+  display: block;
+  filter: invert(1);
+}
+
+.footer-logo img {
+  width: 6em;
+  margin: 0;
+}
