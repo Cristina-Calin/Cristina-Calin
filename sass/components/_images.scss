@@ -1,0 +1,15 @@
+.palette {
+    @include bgd-img($img-palette);
+}
+
+.enchanted {
+    @include bgd-img($img-enchanted);
+}
+
+.bastille {
+    @include bgd-img($img-bastille);
+}
+
+.gourmand {
+    @include bgd-img($img-gourmand);    
+}
