@@ -11,6 +11,7 @@
     align-items: $align;
 }
 
+
 @mixin computers {
     @media (min-width: 1290px) {
         @content;
