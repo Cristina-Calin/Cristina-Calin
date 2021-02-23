@@ -5,7 +5,7 @@
     h2 {
       display: block;
       text-align: left;
-      font-size: 26px;
+      font-size: 1.625rem;
       padding: 1em 0 0;
     }
     h3 {
@@ -41,7 +41,7 @@
       &__tag {
         @include flexbox($direction: column, $wrap: nowrap);
         position: absolute;
-        font-size: 0.9em;
+        font-size: 0.9rem;
         font-weight: 500 !important;
         top: 15px;
         right: 15px;

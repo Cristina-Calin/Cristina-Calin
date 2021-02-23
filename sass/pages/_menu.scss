@@ -9,7 +9,7 @@
     }
     &__content {
       position: relative;
-      max-width: 500px;
+      max-width: none;
       margin: auto;
       top: -45px;
       padding: 1.5em 1em 0;
@@ -19,9 +19,9 @@
     &__name {
       width: 100%;
       @include flexbox($justify: space-between);
-      font-size: 24px;
+      font-size: 1.5rem;
       font-weight: normal;
-      font-family: $ff-alt;
+      font-family: $ffamily-alt;
     }
     &__type {
       margin: 2em 0 0;
@@ -110,11 +110,34 @@
     }
   }
   
-  // Resp
+  // Responsiveness
+
+  @include tablets {
+    .menu {
+      &__bgd {
+        background-position: center;
+      }
+      &__name {
+        justify-content: center;
+      }
+      &__content {
+        max-width: none;
+        @include flexbox($direction: column);
+      }
+      section {
+        padding: 0 1em;
+      }
+      &__meal {
+        width: 380px;
+        max-width: 400px;
+      }
+    }
+  }
+
+
   @include computers {
     .menu {
       &__bgd {
-        /* height: 350px;*/
         background-position: center;
       }
       &__name {

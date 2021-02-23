@@ -6,6 +6,7 @@
     bottom: 10px;
     z-index: 5;
     overflow: hidden;
+    
     &:hover {
       transition: color 0.5s ease;
       color: transparent;
@@ -27,7 +28,8 @@
     z-index: 2;
   }
   
-  
+ 
+
   .fas.fa-heart {
     font-size: 20px;
     position: absolute;
@@ -48,3 +50,5 @@
       background: lighten($grey, 10%);
     }
   }
+
+ 
