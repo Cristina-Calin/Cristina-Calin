@@ -24,6 +24,15 @@
   }
 }
 
+@keyframes validationSpinner {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 @keyframes fadeInMenus {
   0% {
     opacity: 0;
@@ -222,6 +231,18 @@ button:hover {
   right: 10px;
 }
 
+@media (min-width: 1290px) {
+  .restaurants h2 {
+    text-align: center;
+  }
+}
+
+@media (min-width: 600px) {
+  .restaurants h2 {
+    text-align: center;
+  }
+}
+
 .palette {
   background-image: url("../assets/restaurants/jay-wennington-N_Y88TWmGwA-unsplash.jpg");
   background-size: cover;
@@ -369,6 +390,9 @@ button:hover {
     justify-content: center;
     align-items: center;
   }
+  .howto__title {
+    text-align: center;
+  }
   .howto__number {
     top: -15px;
     margin: auto;
@@ -380,6 +404,12 @@ button:hover {
   }
   .howto__subtitle {
     padding: 1em;
+  }
+}
+
+@media (min-width: 600px) {
+  .howto__title {
+    text-align: center;
   }
 }
 
@@ -544,6 +574,10 @@ button:hover {
 .menu__meal:hover .menu__icon {
   transition: right 0.5s ease;
   right: 0;
+}
+
+.menu__meal:hover i {
+  animation: validationSpinner 1s ease;
 }
 
 .menu__meal:hover .menu__price {

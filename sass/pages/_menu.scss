@@ -74,6 +74,10 @@
         right: 0;
       }
 
+      &:hover i {
+        animation: validationSpinner 1s ease;
+      }
+
       &:hover .menu__price {
         transition: right 0.5s ease;
         right: 70px;

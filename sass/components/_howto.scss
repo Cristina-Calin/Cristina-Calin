@@ -55,6 +55,11 @@
         min-width: 350px;
         @include flexbox($direction: column, $wrap: nowrap);
       }
+
+      &__title {
+        text-align: center;
+      }
+
       &__number {
         top: -15px;
         margin: auto;
@@ -69,4 +74,10 @@
       }
     }
   
+  }
+
+  @include tablets {
+    .howto__title {
+      text-align: center;
+    }
   }

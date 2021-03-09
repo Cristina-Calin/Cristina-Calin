@@ -65,3 +65,16 @@
       }
     }
   }
+
+// Breakpoint
+@include computers {
+ .restaurants h2 {
+    text-align: center;
+  }
+}
+
+@include tablets {
+  .restaurants h2 {
+    text-align: center;
+  }
+}
