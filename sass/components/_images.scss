@@ -1,15 +1,15 @@
 .palette {
-    @include bgd-img($img-palette);
+    @include background-img($img-palette);
 }
 
 .enchanted {
-    @include bgd-img($img-enchanted);
+    @include background-img($img-enchanted);
 }
 
 .bastille {
-    @include bgd-img($img-bastille);
+    @include background-img($img-bastille);
 }
 
 .gourmand {
-    @include bgd-img($img-gourmand);    
+    @include background-img($img-gourmand);    
 }

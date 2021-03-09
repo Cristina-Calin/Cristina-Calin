@@ -67,13 +67,13 @@
   }
 
 // Breakpoint
-@include computers {
+@include desktop-view {
  .restaurants h2 {
     text-align: center;
   }
 }
 
-@include tablets {
+@include tablet-view {
   .restaurants h2 {
     text-align: center;
   }

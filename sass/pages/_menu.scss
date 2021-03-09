@@ -116,7 +116,7 @@
   
   // Responsiveness
 
-  @include tablets {
+  @include tablet-view {
     .menu {
       &__bgd {
         background-position: center;
@@ -139,7 +139,7 @@
   }
 
 
-  @include computers {
+  @include desktop-view {
     .menu {
       &__bgd {
         background-position: center;

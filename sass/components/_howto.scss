@@ -44,7 +44,7 @@
   }
   
   // Breakpoint
-  @include computers {
+  @include desktop-view {
   
     .howto {
       @include flexbox;
@@ -76,7 +76,7 @@
   
   }
 
-  @include tablets {
+  @include tablet-view {
     .howto__title {
       text-align: center;
     }
