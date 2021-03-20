@@ -51,7 +51,7 @@ A link to the GitHub repository.
 
 A link to the web page (located in the README of the GitHub repository). 
 
-(https://cristina-calin.github.io/WebDevelopmentLearning_P3/)
+https://cristina-calin.github.io/WebDevelopmentLearning_P3/
 
 
 
