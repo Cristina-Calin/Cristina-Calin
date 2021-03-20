@@ -2,10 +2,12 @@
 Integrate a mobile website with animations in CSS
 
 ###Scenario
+
 I have just been recruited at Ohmyfood as a junior developer. 
 Ohmyfood is a new startup that wants to make a name for itself in the restaurant business and intends to create a 100% mobile-friendly site that lists the menus of gourmet restaurants. In addition to having a classic reservation system, customers will be able to select the dishes they want for their meal so that they are ready when they arrive. No more wait times in restaurants!
 
 ###Junior Developer’s Objective
+
 The objective is to create a home page and four menu pages by integrating CSS animations. Use of SASS would be a plus.
 The complete project brief can be found here - You can find the models of the site here
 
