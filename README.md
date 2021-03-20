@@ -13,11 +13,11 @@ The complete project brief can be found here - You can find the models of the si
 
 ### Technologies:
 
-* • Development must be done in CSS, without JavaScript.
+* Development must be done in CSS, without JavaScript.
 
-* • No framework should be used, however the use of SASS is a plus.
+* No framework should be used, however the use of SASS is a plus.
 
-* • No CSS code should be applied via a style attribute in an HTML tag.
+* No CSS code should be applied via a style attribute in an HTML tag.
 
 ### Compatibility:
 
@@ -29,23 +29,23 @@ The complete project brief can be found here - You can find the models of the si
 
 ### Content
 
-* • 1 home page
+* 1 home page
 
-* • 4 menu pages.
+* 4 menu pages.
 
-* • The header is present on all pages with a return to home button on the 4 menu pages.
+* The header is present on all pages with a return to home button on the 4 menu pages.
 
-* • The footer is identical on all pages with a reference to an email address on contact.
+* The footer is identical on all pages with a reference to an email address on contact.
 
 ### Animations
 
-* • Buttons: On hover, the background color of the main buttons should lighten slightly. The shadow cast will also need to be more visible. The heart-shaped button should gradually fill in. For this first version, the effect may appear when hovering on desktop instead of clicking.
+* Buttons: On hover, the background color of the main buttons should lighten slightly. The shadow cast will also need to be more visible. The heart-shaped button should gradually fill in. For this first version, the effect may appear when hovering on desktop instead of clicking.
 
-* • On the home page, a "loading-spinner" appears upstream, from 1 to 3 seconds, the design of which is free.
+* On the home page, a "loading-spinner" appears upstream, from 1 to 3 seconds, the design of which is free.
 
-* • Upon arrival on the menu page, the dishes should appear gradually with a slight lag in time.
+* Upon arrival on the menu page, the dishes should appear gradually with a slight lag in time.
 
-* • The visitor can add the dishes he wants to his order by clicking on it. This brings up a small check mark to the right of the dish. This checkmark should slide from right to left. For this first version, the effect can appear when hovering on desktop instead of clicking. If the title of the dish is too long, it will need to be cropped with ellipses.
+* The visitor can add the dishes he wants to his order by clicking on it. This brings up a small check mark to the right of the dish. This checkmark should slide from right to left. For this first version, the effect can appear when hovering on desktop instead of clicking. If the title of the dish is too long, it will need to be cropped with ellipses.
 
 ### Deliverables
 
