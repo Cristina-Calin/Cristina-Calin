@@ -9,9 +9,13 @@ The objective is to create a home page and four menu pages by integrating CSS an
 The complete project brief can be found here - You can find the models of the site here
 
 ###Technologies:
+
 • Development must be done in CSS, without JavaScript.
+
 • No framework should be used, however the use of SASS is a plus.
+
 • No CSS code should be applied via a style attribute in an HTML tag.
+
 ###Compatibility:
 • The site is developed using the mobile-first approach. On tablet and desktop, the site must adapt, the layout is free.
 • Pages must pass W3C validation in HTML and CSS without error.
