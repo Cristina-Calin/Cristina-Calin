@@ -1,5 +1,5 @@
 # WebDevelopmentLearning_P3
-Integrate a mobile website with animations in CSS
+## Integrate a mobile website with animations in CSS
 
 ### Scenario
 
@@ -21,11 +21,11 @@ The complete project brief can be found here - You can find the models of the si
 
 ### Compatibility:
 
-* • The site is developed using the mobile-first approach. On tablet and desktop, the site must adapt, the layout is free.
+* The site is developed using the mobile-first approach. On tablet and desktop, the site must adapt, the layout is free.
 
-* • Pages must pass W3C validation in HTML and CSS without error.
+* Pages must pass W3C validation in HTML and CSS without error.
 
-* • The site must be fully compatible with the latest desktop versions of Chrome and Firefox
+* The site must be fully compatible with the latest desktop versions of Chrome and Firefox
 
 ### Content
 
@@ -49,9 +49,9 @@ The complete project brief can be found here - You can find the models of the si
 
 ### Deliverables
 
-A link to the GitHub repository.
+* A link to the GitHub repository.
 
-A link to the web page (located in the README of the GitHub repository). 
+* A link to the web page (located in the README of the GitHub repository). 
 
 https://cristina-calin.github.io/WebDevelopmentLearning_P3/
 
