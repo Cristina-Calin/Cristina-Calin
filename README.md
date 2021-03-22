@@ -1,5 +1,5 @@
 # WebDevelopmentLearning_P3
-
+OpenClassrooms' P3 - Web Development path 
 
 ## Integrate a mobile website with animations in CSS
 
