@@ -11,7 +11,7 @@ Ohmyfood is a new startup that wants to make a name for itself in the restaurant
 ### Junior Developer’s Objective
 
 The objective is to create a home page and four menu pages by integrating CSS animations. Use of SASS would be a plus.
-The complete project brief can be found [here](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Web%20Developer%20P3/Creative%20Brief%20-%20Ohmyfood!.pdf) - You can find the models of the site [here](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P3+CSS+animations/Projet+3+-+ohmyfood+EN.zip).
+The complete project brief can be found [here](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Web%20Developer%20P3/Creative%20Brief%20-%20Ohmyfood!.pdf), and the mock-ups of the site [here](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P3+CSS+animations/Projet+3+-+ohmyfood+EN.zip).
 
 ### Technologies:
 
